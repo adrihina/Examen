@@ -21,4 +21,8 @@ public class GestionDatos {
 	}	
 
 }
+<<<<<<< HEAD
 //Este es un segundo cambio a este archivo
+=======
+//ESTO ES UN CAMBIO EN EL ARCHIVO PARA EL EXAMEN
+>>>>>>> Examen
